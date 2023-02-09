@@ -2,7 +2,9 @@
 This is a release of the proposed model that combines the BERT-based embedding model and deep matrix factorization method for rating prediction.
 
 In total, our research developed 13 program files.
-Description of each program file:
+
+The description of each program file is as follows.
+
 1. Datapreprocessing.ipynb
    
    Preliminary processing of the collected data includes screening all data with at least six or more comments from the same user and pre-processing data for the review content.
