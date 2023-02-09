@@ -1,1 +1,1 @@
-# MultiEmbedding-for-app-recommendation
+# A Deep Multi-Embedding Model for Mobile Application Recommendation
